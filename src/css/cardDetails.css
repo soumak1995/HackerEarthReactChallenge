@@ -1,0 +1,8 @@
+.inline{
+    display:flex;
+    flex-flow:row wrap;
+    align-items: center
+}
+.from-inline-label{
+    margin:5px 10px 5px 0;
+}
